@@ -1,4 +1,4 @@
-# Team
+# Team²
 ### Jenny L.
 - Technical Artist
 - 3D Modeller
